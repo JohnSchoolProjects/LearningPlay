@@ -13,3 +13,9 @@
 2016-04-30 16:01:03,388  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for just-play-scala, setting default to 2.11.
 2016-04-30 16:01:23,873  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
 2016-04-30 16:07:32,959  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-04-30 17:02:29,899  WARN [ModalContext] - ScalaProject - Project ActionApp has platform default sourceLevel.
+2016-04-30 17:02:29,899  WARN [ModalContext] - ScalaProject - Project ActionApp runs on platform default installation.
+2016-04-30 17:02:30,014  WARN [ModalContext] - ScalaProject - Project ActionApp has platform default sourceLevel.
+2016-04-30 17:02:30,014  WARN [ModalContext] - ScalaProject - Project ActionApp runs on platform default installation.
+2016-04-30 17:02:30,206  WARN [Worker-9] - ScalaProject - Project ActionApp has platform default sourceLevel.
+2016-04-30 17:02:30,206  WARN [Worker-9] - ScalaProject - Project ActionApp runs on platform default installation.

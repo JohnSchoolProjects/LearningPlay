@@ -1,0 +1,2 @@
+@* home Template File *@
+@(artists: Seq[Artist])

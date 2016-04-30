@@ -1,0 +1,14 @@
+@(tasks: List[Task])
+
+@main("Task Tracker") {
+	
+	<h2>Task Tracker</h2>
+	
+	<div>
+		<form>
+			<input type="text" name="taskName" placeholder = "Add a new Task" required>
+			<input type="submit" value="Add">
+		</form>
+	
+	</div>
+}

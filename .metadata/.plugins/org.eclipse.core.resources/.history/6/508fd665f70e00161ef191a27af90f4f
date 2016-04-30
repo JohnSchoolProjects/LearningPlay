@@ -1,0 +1,10 @@
+package controllers
+
+import play.api.mvc._
+import play.api.templates.Html
+
+object SampleAppController extends Controller {
+  def index = Action {
+    
+  }
+}

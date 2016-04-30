@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;just-play-scala&apos;&#x0A;- Original project: &apos;just-play-scala&apos;&#x0A;- Original elements:&#x0A;     AsyncController.scala&#x0A;     CountController.scala&#x0A;     HomeController.scala" description="Delete elements" element1="app/controllers/CountController.scala" element2="app/controllers/HomeController.scala" element3="app/controllers/AsyncController.scala" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1462036462661" subPackages="false" version="1.0"/>
+</session>

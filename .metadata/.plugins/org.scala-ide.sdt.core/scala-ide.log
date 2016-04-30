@@ -1,0 +1,8 @@
+2016-04-30 12:59:14,480  WARN [ModalContext] - ScalaProject - Project just-play-scala has platform default sourceLevel.
+2016-04-30 12:59:14,482  WARN [ModalContext] - ScalaProject - Project just-play-scala runs on platform default installation.
+2016-04-30 12:59:15,377  WARN [ModalContext] - ScalaProject - Project just-play-scala has platform default sourceLevel.
+2016-04-30 12:59:15,377  WARN [ModalContext] - ScalaProject - Project just-play-scala runs on platform default installation.
+2016-04-30 12:59:16,472  WARN [Worker-2] - ScalaProject - Project just-play-scala has platform default sourceLevel.
+2016-04-30 12:59:16,475  WARN [Worker-2] - ScalaProject - Project just-play-scala runs on platform default installation.
+2016-04-30 12:59:16,619  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for just-play-scala, setting default to 2.11.
+2016-04-30 12:59:16,619  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for just-play-scala, setting default to 2.11.
